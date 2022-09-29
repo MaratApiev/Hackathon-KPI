@@ -1,0 +1,52 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Alibek",
+      "lastName": "Snow",
+      "phoneNum": "777",
+      "weekKPI": "100",
+      "monthKPI": "98"
+    },
+    {
+      "firstName": "1",
+      "lastName": "1",
+      "phoneNum": "1",
+      "weekKPI": "1",
+      "monthKPI": "1",
+      "id": 3
+    },
+    {
+      "firstName": "12",
+      "lastName": "12",
+      "phoneNum": "12",
+      "weekKPI": "12",
+      "monthKPI": "21",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "firstName": "123",
+      "lastName": "123",
+      "phoneNum": "123",
+      "weekKPI": "123",
+      "monthKPI": "123"
+    },
+    {
+      "firstName": "Marat",
+      "lastName": "Apiev",
+      "phoneNum": "12345",
+      "weekKPI": "12345",
+      "monthKPI": "12345",
+      "id": 6
+    },
+    {
+      "firstName": "Ilya",
+      "lastName": "123",
+      "phoneNum": "123",
+      "weekKPI": "123",
+      "monthKPI": "123",
+      "id": 7
+    }
+  ]
+}
